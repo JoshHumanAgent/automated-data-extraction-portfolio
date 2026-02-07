@@ -1,0 +1,68 @@
+[
+  {
+    "title": "It's Only the Himalayas",
+    "price": 45.17,
+    "star_rating": 2,
+    "is_in_stock": true
+  },
+  {
+    "title": "Full Moon over Noah's Ark: An Odyssey to Mount Ararat and Beyond",
+    "price": 49.43,
+    "star_rating": 4,
+    "is_in_stock": true
+  },
+  {
+    "title": "See America: A Celebration of Our National Parks & Treasured Sites",
+    "price": 48.87,
+    "star_rating": 3,
+    "is_in_stock": true
+  },
+  {
+    "title": "Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel",
+    "price": 36.94,
+    "star_rating": 2,
+    "is_in_stock": true
+  },
+  {
+    "title": "Under the Tuscan Sun",
+    "price": 37.33,
+    "star_rating": 3,
+    "is_in_stock": true
+  },
+  {
+    "title": "A Summer In Europe",
+    "price": 44.34,
+    "star_rating": 2,
+    "is_in_stock": true
+  },
+  {
+    "title": "The Great Railway Bazaar",
+    "price": 30.54,
+    "star_rating": 1,
+    "is_in_stock": true
+  },
+  {
+    "title": "A Year in Provence (Provence #1)",
+    "price": 56.88,
+    "star_rating": 4,
+    "is_in_stock": true
+  },
+  {
+    "title": "The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)",
+    "price": 23.21,
+    "star_rating": 1,
+    "is_in_stock": true
+  },
+  {
+    "title": "Neither Here nor There: Travels in Europe",
+    "price": 38.95,
+    "star_rating": 3,
+    "is_in_stock": true
+  },
+  {
+    "title": "1,000 Places to See Before You Die",
+    "price": 26.08,
+    "star_rating": 5,
+    "is_in_stock": true
+  }
+]
