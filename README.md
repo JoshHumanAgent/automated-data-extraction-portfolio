@@ -42,4 +42,7 @@ I build custom autonomous agents designed to harvest, clean, and format data fro
 ## 🛠 Ready to automate your workflow?
 
 I am available for freelance contracts.
-**Contact:** [Your Email / Website Link]
+**Contact:** randlez74@gmail.com
+             lobbyexec@gmail.com
+             joshhutton74@gmail.com
+             
